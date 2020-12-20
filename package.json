@@ -1,0 +1,26 @@
+{
+  "name": "microlabkit",
+  "version": "0.0.1",
+  "description": "Node micro service lab kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@elastic/elasticsearch": "7.x.x",
+    "chai": "4.x.x",
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "joi": "17.x.x",
+    "mocha": "8.x.x",
+    "nyc": "15.x.x",
+    "pg": "8.x.x",
+    "proxyquire": "2.x.x",
+    "sinon": "9.x.x"
+  }
+}
